@@ -12,9 +12,9 @@ do {
     Write-Host "========================================="
     Write-Host "================== MENU ================="
     Write-Host "========================================="
-    Write-Host "1 - Ajout et configuration du role DHCP"
-    Write-Host "2 - Renommer le serveur"
-    Write-Host "3 - Installer et configurer AD DS"
+    Write-Host "1 - Ajout et config du role DHCP"
+    Write-Host "2 - Renomer le serveur"
+    Write-Host "3 - Install et config de L'AD DS "
 
     [int]$choix = Read-Host "Veuillez faire un choix"
 
